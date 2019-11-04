@@ -16,7 +16,7 @@ Objective Function:
 	
 Constraints:
 
-	Enter constraints line by line. The constraints should have all the variables on the RHS and the constant on the LHS. Following symbols can be used for the constraints:
+	Enter constraints line by line. The constraints should have all the variables on the LEFT hand side and the constant on the RIGHT hand side. Following symbols can be used for the constraints:
 	
 	==    for equal to type constraint
 	
