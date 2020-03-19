@@ -1,0 +1,8 @@
+﻿Author: Syed N. Mujahid.
+Date: Oct 27, 2019 (ver1), Mar 15, 2020 (ver2).
+eMail: mnusyed AT gmail DOT com
+Content: copyright © Syed N. Muahid, released under CC-BY-4.0.
+
+The "lpSolver" is a GUI developed using TKINTER package. The GUI takes input from user (with the help of SYMPY) that is required to solve an LP. Internally, PULP package is called to develop an LP. Then the LP is solved via GLPK solver. All repositories used in this application are open source. You are allowed to modify and reuse the GUI. Kindly do not remove this note from the software. If you find any legal issues with the software, then kindly let me know. The issues will be resolved ASAP.
+
+Disclaimer: This lpSolver is provided by THE PROVIDER "as is" and "with all faults." THE PROVIDER makes no representations or warranties of any kind concerning the safety, suitability, lack of viruses, inaccuracies, typographical errors, or other harmful components of this lpSolver. There are inherent dangers in the use of any software, and you are solely responsible for determining whether this lpSolver is compatible with your equipment and other software installed on your equipment. You are also solely responsible for the protection of your equipment and backup of your data, and THE PROVIDER will not be liable for any damages you may suffer in connection with using, modifying, or distributing this lpSolver.
